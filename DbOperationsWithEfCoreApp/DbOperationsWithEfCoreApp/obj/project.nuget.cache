@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6o4oFspjL+pJV1/F4AHvzgrPRwzph0WRDn4b20mDDiQbpZxWHyXvutAw5QXQ2TKOXnTvNqxiutw3uOtZHXb6rQ==",
+  "success": true,
+  "projectFilePath": "E:\\SRC\\DbOperationsWithEfCore\\DbOperationsWithEfCoreApp\\DbOperationsWithEfCoreApp\\DbOperationsWithEfCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VARUN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\VARUN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\VARUN\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\VARUN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\VARUN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\VARUN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\VARUN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
